@@ -1,0 +1,46 @@
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  .back {
+    background-color: rgb(127, 255, 133);
+    background : rgb(12, 154, 144);
+    background: linear-gradient(90deg, rgb(13, 219, 144) 0%, rgb(126, 235, 215) 100%);
+    background-size: cover;
+    padding: 100px 0;
+    text-align: center; 
+  }
+  .h1{
+    align-content: center;
+  }
+  .tcont{
+    font-size: 36;
+    font-weight: 100;
+    table-layout: auto;
+    width: 80%; 
+    margin: 0 auto;
+  }
+  table {
+    border-collapse: collapse;
+    font-size: larger;
+    border: 1px solid #000; /* 1-pixel solid black border */
+  }
+  tr {
+    border-bottom: 2px solid #000; /* 1-pixel solid black bottom border for rows */
+  }
+  td {
+    border: 2px solid #000; /* 1-pixel solid black border for cells */
+  }
+
+  .action-button1 {
+    border-color: rgb(4, 65, 172);
+    width: 80px;
+    border-width: 2px;
+    background-color: #4361f4;
+  }
+  .action-button2 {
+    border-color: rgb(4, 65, 172);
+    width: 80px;
+    border-width: 2px;
+    background-color: #4361f4;
+  }
